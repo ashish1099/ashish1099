@@ -1,25 +1,23 @@
 <h3 align="center">Ashish Jaiswal</h3>
-<p align="center"><em>Building infrastructure that organisations own.</em></p>
+<p align="center"><em>I build infrastructure that teams can own and run themselves.</em></p>
 
 ---
 
-Ashish Jaiswal is the Chief Technology Officer at [Obmondo](https://obmondo.com), which he joined in 2015 and where he has led engineering from individual contributor to CTO. He has spent roughly 15 years in Linux and systems engineering, beginning as a Red Hat support engineer in 2011 and moving through Linux administration into platform and infrastructure leadership.
+I'm the CTO at [Obmondo](https://obmondo.com), where I've worked since 2015. Fifteen years in Linux and systems: I started out as a Red Hat support engineer in 2011 and have spent most of the time since building platforms — and the teams that keep them running.
 
-His work centres on a single principle: enabling teams to run infrastructure they own and control, rather than infrastructure rented from a single hyperscaler and difficult to leave. That principle drives the open-source projects he maintains.
+Most of what I do comes back to one idea — give people infrastructure they own and operate themselves, instead of renting it from a provider they can't walk away from. That's what I build in the open:
 
-### Open source
+### What I maintain
 
-- **[KubeAid](https://github.com/Obmondo/KubeAid)** — a GitOps-driven management suite for Kubernetes. Runs on any cloud or bare-metal cluster and keeps it continuously reconciled from Git. `Go`
-- **[kubeaid-cli](https://github.com/Obmondo/kubeaid-cli)** — the command-line tool for the full KubeAid cluster lifecycle: bootstrap, upgrade, and recovery. `Go`
-- **[LinuxAid](https://github.com/Obmondo/LinuxAid)** — a Puppet / OpenVox framework for managing fleets of Linux servers declaratively. `Puppet`
-- **[gfetch](https://github.com/Obmondo/gfetch)** — a lightweight git-synchronisation daemon backed by a shared object cache. `Go`
+- **[KubeAid](https://github.com/Obmondo/KubeAid)** — a GitOps management suite for Kubernetes. Bring any cluster, on any cloud or bare metal, and it stays reconciled from Git. `Go`
+- **[kubeaid-cli](https://github.com/Obmondo/kubeaid-cli)** — the CLI for the whole KubeAid cluster lifecycle: bootstrap, upgrade, recover. `Go`
+- **[LinuxAid](https://github.com/Obmondo/LinuxAid)** — Puppet / OpenVox for managing fleets of Linux servers the same declarative way. `Puppet`
+- **[gfetch](https://github.com/Obmondo/gfetch)** — a small git-sync daemon backed by a shared object cache. `Go`
 
-### Focus areas
+### Usually working with
 
-Kubernetes platform engineering, GitOps and declarative operations, Linux fleet management, and self-hostable infrastructure — working primarily with Cluster API, Argo CD, Crossplane, Helm, and Cilium.
+Cluster API, Argo CD, Crossplane, Helm, and Cilium — the self-hostable, boring-on-purpose stack.
 
-### Contact
+### Reach me
 
-`ashish1099` on most platforms · [kubeaid.io](https://kubeaid.io)
-
-<sub>Maintainer of KubeAid &amp; LinuxAid · Arctic Code Vault contributor</sub>
+`ashish1099` most places · [kubeaid.io](https://kubeaid.io)
