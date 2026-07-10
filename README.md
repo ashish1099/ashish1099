@@ -20,4 +20,4 @@ Cluster API, Argo CD, Crossplane, Helm, and Cilium — the self-hostable, boring
 
 ### Reach me
 
-`ashish1099` most places · [kubeaid.io](https://kubeaid.io)
+[ashish@obmondo.com](mailto:ashish@obmondo.com) · [obmondo.com](https://obmondo.com) · `ashish1099` most places · [kubeaid.io](https://kubeaid.io)
